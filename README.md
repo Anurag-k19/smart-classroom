@@ -1,1 +1,1 @@
-# smart-classroom
+# Smart-Classroom
