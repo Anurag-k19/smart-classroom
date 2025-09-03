@@ -27,6 +27,6 @@ jobs:
       uses: docker/build-push-action@v6.18.0
       with:
         context: .
-        file: ./Dockerfile
+        file: file: ./smart-classroom-frontend/Dockerfile
         push: true
         tags: 1anurag01/smart-frontend:latest
